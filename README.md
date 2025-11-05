@@ -63,7 +63,3 @@ This project helped me practice:
 ## 👨‍💻 Author
 
 **Duong Pham** - Learning web development fundamentals
-
----
-
-*Part of my web development learning journey* 🌟
